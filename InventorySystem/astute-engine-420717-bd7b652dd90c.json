@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "astute-engine-420717",
+  "private_key_id": "bd7b652dd90ce753b75f312dcbb530afbf8a22da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDT+70Qao9ucaL3\nkutaTGQ8U+TC5QtUH4JsOyL9Eub0cWb0fG8YwGaRHmkdCwrjHyRStYfsdddW7FtL\nY+occcx6DQ6CChkg6+zi+D2SsmoT84d4qd6PjO/T94s+Aux4BI0c3yucXMd55mbc\nxsUXMz6Zh3kwbgpvtvmjpxBAgdX4dB2DxyHDd3uWRtjMOUT/rGYuUfIA5pUM8YlG\n6ixj6BdJ/j+hwCM5v6NIbBYl8og0W/EriDWWQVRW2qwk7Sy8hqOXNlfn6MJoz8Yg\nVVXcP6hkV1YA9nugxMvn8oYUJMoJMtL5U9pyVjX1+ZhRmmm95JfslEqfv3HgWws9\nQ+OzCDkNAgMBAAECggEAB93PpkxOBksxQP6yvScYkSSL2K+nO/fvXxTSt5F8AJY0\nu93iQYjiRYBbZjiCrur47hjOcnftBcy/loyeo2+VpvHVF/5H8HDQ2ZtcrZTxWswu\nusuS9sDEJZmKEUMKg2mn0up1M9g9jsh+CLNXnQTJzei5FpL+0CZ6HRiWAc7Poeib\n5YtHq1Ga+lUR9DDIkj3zgZp73HEis58eXXXCndd+0Y/ZY7B3/xDzhMX1yzYK5iXv\n/hOKBg8OP/mf3LMpPSdOd51IWl7St1/BM8E/t7uhy/GknxvpjOPRGRUQzxq3J79X\n4JIrSqTOEXrlR9X1KfXqNSe+z0WPuQBk9cDGyoTQAQKBgQDqjsvNEaDKBgQ5pMLr\nZwKozcU1wFgHOpHPpJw3j0BOTWHV007ZnapTmWN6d7v09byyZ53TYhtYpqoYgp7c\nvc6x1xId38WZMcpaD8K6jgQBRmsCEVTlscAPaRWmj+jiS0nT34V0CPFhzKQb/3dQ\nl5SM3ey7BJjN8U+hpCjSy1JcGQKBgQDnXKW6vKbfdv31wh8cpXM9bI0Ak2Y5HEmf\nC/m832FmWWH/VCREmyQycxanWMG4sr6ZSkfYxbgOUQuKjBfK6MQx3Thwzh5qPy6f\n5+TEdyTBRExEsvGEKj42Fcr9ZLSCbhF1ASt3ltt9muqrMPRBlE3rk4BoIW17qfrI\n83MCPhFjFQKBgQDii1zoCfikZz85dZsVxf5Zj7TD/6yF/tnKFZEUUHWpqy+tWFQ1\n9wQFjob4SCDvrVC9dzqGaaFD9GUhGzfYuDKkrbc/x1uQZPiuF77adEQF/z9nVdoL\np6x6teJFZ4Vk25bI3oCE3AZXkVGIASv6WQ0PKWF2GDCF6GYjFuye++XmMQKBgQCs\nJ/ZyM3qAgcyLmH0KFdrgc+uf6A6CpJfrrz+P2TBitlQDaBrsqfyPRbAvqg3MX8UP\nz4QSu10v2gKaf5AcvoNvD0u2NMnRCV6qQiWqQ3WoEigmXnj0fXJ5UFIRp2PiQgDf\nbZVokWqV1jaUWAMI4U/x4XoFAgqzoFIqQWzs2D6b2QKBgQDEa7s98Ua0B7BYCm9O\nE3nIAEQcWxcuWjXYQmp3QJqg9Bld2Xidy2+iFRgIL/DdEfhIueRcLx+jFWS09S00\nhPxMe4dm50StjnKSw0WkToFYZlMNyrbrTJPOcc7RSzYILRkdq3fvRrThGm18Rh7o\ni3LtN3UenGGtJxq8kssupYbDXQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "amazing-games@astute-engine-420717.iam.gserviceaccount.com",
+  "client_id": "118075788993696842732",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amazing-games%40astute-engine-420717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
